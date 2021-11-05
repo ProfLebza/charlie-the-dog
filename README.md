@@ -6,8 +6,11 @@ required to get Charlie to grab each piece of food in the grid by moving up, dow
 before all pieces of food have been collected. For example: if strArr is ["FOOF", "OCOO", "OOOH", "FOOO"], then this looks like the following grid:
 
 [F][O][O][F]
+
 [O][C][O][O]
+
 [O][O][O][H]
+
 [F][O][O][O]
 
 For the input above, the least amount of steps where the dog can reach each piece of food, and then return home is 11 steps, so your program should return the
